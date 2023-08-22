@@ -1,4 +1,4 @@
-# New branch for Assignment 1
+## New branch for Assignment 1
 
 # Augur NEW Release v0.51.1
 
